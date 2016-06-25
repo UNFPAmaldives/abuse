@@ -82,6 +82,27 @@ white-space: nowrap;
     font-style: normal;
     src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/PostoniRegular.otf") format("opentype");
 }
+
+@font-face {
+    font-family: 'unfpabold';
+    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-bold-webfont.eot");
+}
+@font-face {
+    font-family: 'unfpasemibold';
+"    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-semibold-webfont.eot");
+}
+@font-face {
+    font-family: 'unfpatext';
+    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-text-webfont.eot");
+}
+@font-face {
+    font-family: 'unfpasemibolditalic';
+    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-semibolditalic-webfont.eot");
+}
+@font-face {
+    font-family: 'unfpatextitalic';
+    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-textitalic-webfont.eot");
+}
 /*add to hed: 
  <link href="http://db.onlinewebfonts.com/c/05fb50a4e818dff0dec7c1c5a59da24f?family=ElectraLTW01-Bold" rel="stylesheet" type="text/css"/>
 ***then

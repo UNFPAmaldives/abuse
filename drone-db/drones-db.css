@@ -83,6 +83,26 @@ white-space: nowrap;
     src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/PostoniRegular.otf") format("opentype");
 }
 
+@font-face {
+    font-family: 'unfpabold';
+    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-bold-webfont.eot");
+}
+@font-face {
+    font-family: 'unfpasemibold';
+"    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-semibold-webfont.eot");
+}
+@font-face {
+    font-family: 'unfpatext';
+    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-text-webfont.eot");
+}
+@font-face {
+    font-family: 'unfpasemibolditalic';
+    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-semibolditalic-webfont.eot");
+}
+@font-face {
+    font-family: 'unfpatextitalic';
+    src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/unfpa/unfpa-textitalic-webfont.eot");
+}
 
 #main-container.container,
 #main-container .container {
