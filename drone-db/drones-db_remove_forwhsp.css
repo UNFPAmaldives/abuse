@@ -5,82 +5,82 @@ white-space: nowrap;
 
 @font-face {
     font-family: 'FranklinITCProLight';
-    src: url("../../fonts/Franklin/FranklinITCProLight.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/FranklinITCProLight.ttf");
 }
 @font-face {
     font-family: 'FranklinITCProThin';
-    src: url("../../fonts/Franklin/FranklinITCProThin.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/FranklinITCProThin.ttf");
 }
 @font-face {
     font-family: 'FranklinITCProBold';
-    src: url("../../fonts/Franklin/FranklinITCProBold.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/FranklinITCProBold.ttf");
 }
 @font-face {
     font-family: 'PostoniBold';
-    src: url("../../fonts/postoni/PostoniBold.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniBold.ttf");
 }
 @font-face {
     font-family: 'PostoniDisplayRegularItalic';
-    src: url("../../fonts/postoni/PostoniDisplayRegularItalic.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniDisplayRegularItalic.ttf");
 }
 @font-face {
     font-family: 'PostoniDisplayRegular';
-    src: url("../../fonts/postoni/PostoniDisplayRegular.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniDisplayRegular.ttf");
 }
 @font-face {
     font-family: 'PostoniTitlingRegular';
-    src: url("../../fonts/postoni/PostoniTitlingRegular.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniTitlingRegular.ttf");
 }
 @font-face {
     font-family: 'postonititling-regular-webfont';
-    src: url("../../fonts/postoni/postonititling-regular-webfont.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/postonititling-regular-webfont.ttf");
 }
 @font-face {
     font-family: 'PostoniDisplay';
-    src: url("http://mpop.xyz/fonts/postoni/PostoniDisplay.ttf");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniDisplay.ttf");
 }
 @font-face {
     font-family: PostoniStandardBold;
     font-weight: bold;
-    src: url("../../fonts/postoni/PostoniStandardBold.otf") format("opentype");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniStandardBold.otf") format("opentype");
 }
 @font-face {
     font-family: PostoniStandardBoldItalic;
     font-weight: bold;
     font-style: italic;
-    src: url("../../fonts/postoni/PostoniStandardBoldItalic.otf") format("opentype");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniStandardBoldItalic.otf") format("opentype");
 }
 @font-face {
     font-family: PostoniStandardItalic;
     font-style: italic;
-    src: url("../../fonts/postoni/PostoniStandardItalic.otf") format("opentype");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniStandardItalic.otf") format("opentype");
 }
 @font-face {
     font-family: PostoniStandardRegular;
     font-weight: bold;
-    src: url("../../fonts/postoni/PostoniStandardRegular.otf") format("opentype");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniStandardRegular.otf") format("opentype");
 }
 @font-face {
     font-family: "Postoni";
     font-weight: bold;
-    src: url("../../fonts/postoni/PostoniBold.otf") format("opentype");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniBold.otf") format("opentype");
 }
 @font-face {
     font-family: "Postoni";
     font-weight: bold;
     font-style: italic;
-    src: url("../../fonts/postoni/PostoniBoldItalic.otf") format("opentype");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniBoldItalic.otf") format("opentype");
 }
 @font-face {
     font-family: "Postoni";
     font-style: italic;
-    src: url("../../fonts/postoni/PostoniItalic.otf") format("opentype");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniItalic.otf") format("opentype");
 }
 @font-face {
     font-family: "Postoni";
     font-weight: normal;
     font-style: normal;
-    src: url("../../fonts/postoni/PostoniRegular.otf") format("opentype");
+    src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/PostoniRegular.otf") format("opentype");
 }
 /*add to hed: 
  <link href="http://db.onlinewebfonts.com/c/05fb50a4e818dff0dec7c1c5a59da24f?family=ElectraLTW01-Bold" rel="stylesheet" type="text/css"/>
@@ -98,12 +98,12 @@ white-space: nowrap;
 /* Font Awesome -i inserted this from sahifa's style.css, i think*/
 @font-face {
     font-family: 'FontAwesome';
-    src:  url('http://mpop.xyz/graphics/drone-db/fonts/fontawesome/fontawesome-webfont.eot?v=4.5.0');
-    src:  url('http://mpop.xyz/graphics/drone-db/fonts/fontawesome/fontawesome-webfont.eot?') format('embedded-opentype'),
-    url('http://mpop.xyz/graphics/drone-db/fonts/fontawesome/fontawesome-webfont.woff2?v=4.5.0') format('woff2'),
-    url('http://mpop.xyz/graphics/drone-db/fonts/fontawesome/fontawesome-webfont.woff?v=4.5.0') format('woff'),
-    url('http://mpop.xyz/graphics/drone-db/fonts/fontawesome/fontawesome-webfont.ttf?v=4.5.0') format('truetype'),
-    url('http://mpop.xyz/graphics/drone-db/fonts/fontawesome/fontawesome-webfont.svg?v=4.5.0') format('svg');
+    src:  url('https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/fontawesome-webfont.eot?v=4.5.0');
+    src:  url('https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/fontawesome-webfont.eot?') format('embedded-opentype'),
+    url('https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/fontawesome-webfont.woff2?v=4.5.0') format('woff2'),
+    url('https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/fontawesome-webfont.woff?v=4.5.0') format('woff'),
+    url('https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/fontawesome-webfont.ttf?v=4.5.0') format('truetype'),
+    url('https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/fontawesome-webfont.svg?v=4.5.0') format('svg');
     font-weight: normal;
     font-style: normal;
 }
