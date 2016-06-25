@@ -1,8 +1,8 @@
 /* font-face */
 @font-face {
   font-family: "GeneralFoundicons";
-  src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/general_foundicons.eot");
-  src: url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/general_foundicons.eot?") format("embedded-opentype"), url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/general_foundicons.woff") format("woff"), url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/general_foundicons.ttf") format("truetype"), url("https://unfpamaldives.github.io/abuse/gh-pages/drone-db/fonts/general_foundicons.svg") format("svg");
+  src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/general_foundicons.eot");
+  src: url("https://unfpamaldives.github.io/abuse/drone-db/fonts/general_foundicons.eot?") format("embedded-opentype"), url("https://unfpamaldives.github.io/abuse/drone-db/fonts/general_foundicons.woff") format("woff"), url("https://unfpamaldives.github.io/abuse/drone-db/fonts/general_foundicons.ttf") format("truetype"), url("https://unfpamaldives.github.io/abuse/drone-db/fonts/general_foundicons.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
