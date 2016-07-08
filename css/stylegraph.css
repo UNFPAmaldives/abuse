@@ -1,0 +1,15 @@
+.c3-line-data2 {
+    opacity: 0;
+}
+
+.c3-line-data3 {
+    opacity: 0;
+}
+
+.c3-chart-line .c3-target .c3-target-data3 .c3-shape .c3-shape .c3-line .c3-line-data2 {
+    opacity: 0;
+}
+
+c3-shape .c3-shape .c3-line .c3-line-data3 {
+    opacity: 0;
+}
