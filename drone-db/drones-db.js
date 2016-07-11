@@ -693,7 +693,8 @@ $(function(){
         var months_styled = ['Jan.', 'Feb.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
         var is_classified = date.indexOf('-') > -1;
         var new_date = is_classified ? new Date(date.split(' - ')[0]) : new Date(date);
-        return is_classified ? date.getFullYear();
+        return is_classified ? date
+            : months_styled[new_date.getMonth()] + ', ' + new_date.getFullYear();
     }
     function calculateUnitWidth(obj, length){
         return (obj.outerWidth() / length) / obj.outerWidth() * 100;
