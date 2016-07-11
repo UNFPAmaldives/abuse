@@ -690,6 +690,7 @@ $(function(){
         return new_date.getFullYear() ? : 'unknown';
     }
     function formatDatePostStyle(date){
+        var months_styled = ['Jan.', 'Feb.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
         var is_classified = date.indexOf('-') > -1;
         var new_date = is_classified ? new Date(date.split(' - ')[0]) : new Date(date);
         return is_classified ? date
