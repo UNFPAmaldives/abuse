@@ -299,7 +299,7 @@ $(function(){
         .enter().append("svg:path")
             .attr("d", opts.line)
             .attr("class", function(d) {
-                d.formatted_date = formatDatePostStyle(d.mishapdate);
+                d.formatted_date = (d.mishapdate);
                 return 'crash-path ' + formatClasses(d)
             })
             .on('mouseover', function(d){
