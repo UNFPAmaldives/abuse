@@ -687,14 +687,14 @@ $(function(){
     }
     function formatDate(date, new_delimiter){
         var new_date = new Date(date);
-        return new_date.getFullYear() ? : 'unknown';
+        return new_date.getFullYear() ? new_date.getFullYear() + '-' + (new_date.getMonth() + 1) + '-' + new_date.getDate() : 'unknown';
     }
     function formatDatePostStyle(date){
         var months_styled = ['Jan.', 'Feb.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
         var is_classified = date.indexOf('-') > -1;
         var new_date = is_classified ? new Date(date.split(' - ')[0]) : new Date(date);
         return is_classified ? date
-            : new_date.getFullYear();
+            : months_styled[new_date.getMonth()] + ', ' + new_date.getFullYear();
     }
     function calculateUnitWidth(obj, length){
         return (obj.outerWidth() / length) / obj.outerWidth() * 100;
