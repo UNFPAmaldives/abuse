@@ -687,7 +687,7 @@ $(function(){
     }
     function formatDate(date, new_delimiter){
         var new_date = new Date(date);
-        return new_date.getFullYear() ? new_date.getFullYear() + '-' + (new_date.getMonth() + 1) + '-' + new_date.getDate() : 'unknown';
+        return new_date.getFullYear() ? : 'unknown';
     }
     function formatDatePostStyle(date){
         var months_styled = ['Jan.', 'Feb.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
